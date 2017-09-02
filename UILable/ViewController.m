@@ -22,6 +22,7 @@
     //设置lable显示位置
     lable.frame=CGRectMake(120, 100, 160, 120);
     
+    
     //设置lable背景颜色,clearColor表示透明的颜色
 //    lable.backgroundColor=[UIColor whiteColor];
     
